@@ -15,6 +15,7 @@ public class Apresentacao {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("bom dia amigo");
         // TODO code application logic here
     }
     
